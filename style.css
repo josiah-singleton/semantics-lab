@@ -1,0 +1,14 @@
+body{
+    background: black
+}
+p {
+
+
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 36;
+    
+    }
+    :target {
+        border: 2px solid #D4D4D4;
+        background-color: #e5eecc;
+      }
